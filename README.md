@@ -1,3 +1,16 @@
+# Tasks! Claim 1 from each group:
+## Train a model (tune parameters, observe performance, etc.):
+- KNN (kinda done so easy) : ASSIGNEE
+- Decision Tree : ASSIGNEE
+- Logistic Regression : ASSIGNEE
+- Random Forest : ASSIGNEE
+## Misc. Tasks:
+- Feature Engineering : Dale
+- Make powerpoint/report : Joseph + 1 more ASSIGNEE
+- Improve model comparisons/evals : ASSIGNEE
+- Clean up repo, README, etc.
+
+
 ### **0. Development Setup**
 
 Create and activate a Conda environment, then install the project dependencies:
