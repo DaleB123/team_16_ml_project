@@ -1,3 +1,16 @@
+### **0. Development Setup**
+
+Create and activate a Conda environment, then install the project dependencies:
+
+```bash
+conda create -n spotify-ml python=3.11
+conda activate spotify-ml
+pip install -r requirements.txt
+python -m ipykernel install --user --name spotify-ml --display-name "Python (spotify-ml)"
+```
+
+In VS Code, open the notebook, select **Select Kernel** in the top-right, and choose **Python (spotify-ml)**.
+
 ### **1\. Project Title**
 
 Spotify Genre Classification Using Machine Learning
