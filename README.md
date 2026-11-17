@@ -8,7 +8,7 @@
 - Feature Engineering : Dale
 - Make powerpoint/report : Joseph + 1 more ASSIGNEE
 - Improve model comparisons/evals : ASSIGNEE
-- Clean up repo, README, etc.
+- Clean up repo, README, etc. : ASSIGNEE
 
 
 ### **0. Development Setup**
